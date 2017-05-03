@@ -6,7 +6,7 @@ var Header = React.createClass({
             <div className="page-header" role="navigation">
                 <div className="container">
                     <div className="col-xs-12 col-sm-6 title">
-                        <h1><a href="/">React NYTimes</a></h1>
+                        <h1><a href="/">NYT React Search</a></h1>
                     </div>
                     <div className="col-xs-12 col-sm-6 header-links">
                         <h4><a href="#/search">Search <span className="glyphicon glyphicon-search"/></a></h4>
